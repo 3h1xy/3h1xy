@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**3h1xy/3h1xy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a self-driven **independent security researcher** passionate about exploring vulnerabilities, improving system security, and contributing to the infosec community.
 
-Here are some ideas to get you started:
+## 🔍 About Me
+- 🛡️ Focus areas: Web security, penetration testing, exploit development, reverse engineering
+- 📚 Constant learner of new attack techniques and defense strategies
+- 🧪 Love experimenting with real-world security scenarios
+- 🤝 Open to collaboration on security-related projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech & Tools I Use
+- **Languages:** Python, JavaScript, Go, C/C++
+- **Testing Tools:** Burp Suite, Nmap, Metasploit, Wireshark
+- **Reverse Engineering:** Ghidra, IDA Free, Radare2
+- **Other:** Docker, Linux, Git
+
+## 🧠 Research Interests
+- Web application vulnerabilities (XSS, SQLi, SSRF, RCE…)
+- Network & infrastructure security
+- Malware analysis
+- Security automation tools
+- Capture the Flag (CTF) challenges
+
+## 🚀 Current Projects
+- 🔧 Developing custom security testing tools
+- 🧵 Writing blogs and documenting vulnerability research
+- 🧩 Working on exploitation labs & PoC demos
+
+---
+⭐ **If you find my work helpful, consider starring my repos!**
+
